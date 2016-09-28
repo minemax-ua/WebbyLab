@@ -52,5 +52,3 @@ var_dump(
 var_dump(
     $cat->meow() === 'Cat Garfield is saying meow'
 );
-
-echo 2 / '2alpha2';
